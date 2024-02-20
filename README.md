@@ -3,7 +3,7 @@ Del archivo EQUIPOS.json saca la siguiente información.
 
 1 -- Lista de equipos.
 
-2 -- Mostrar el total de goles marcados en todos los partidos.
+2 -- Mostrar el total de goles marcados en todos los partidos. Detalla cuántos goles como local y como visitante.
 
 3 -- Solicitar un equipo y mostrar todos los partidos en los que ese equipo ha participado.
 
